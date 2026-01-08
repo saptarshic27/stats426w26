@@ -1,9 +1,9 @@
 ---
-name: Jialin He
+name: Andrej Leban
 role: Teaching Assistant
-email: jialhe@umich.edu
-photo: jialin.jpg
+email: leban@umich.edu
+photo: leban.jpg
 meta:
-  Office Hours: 1:00-2:30pm on Thursdays in G219 Angell Hall.
+  Office Hours: TBD.
 ---
 

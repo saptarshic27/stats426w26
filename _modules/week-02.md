@@ -1,10 +1,11 @@
 ---
-title: (Week 2) Sample Surveys
+title: (Week 2) Recap of Probability Theory
 ---
 
-Sep 1
-: No Class due to Labor Day
+Jan 13 
+: MGF continued, Joint and Conditional Distribution, Conditional Expectation, Chisquared R.V. Change of variable formula 
+  : Chapter 3 (3.5, 3.6) and Chapter 4 (4.4).
 
-Sep 3
-: Introduction to sample surveys, Sampling bias, Simple random sampling with replacement vs. without replacement, properties of sample mean 
-  : Chapter 7.1 - 7.3.1
+Jan 15
+: Variance, Covariance, Correlation, the multivariate Gaussian distribution
+  :  Rice 6.2 (review Rice 3.2-3.3, 4.3 if necessary)

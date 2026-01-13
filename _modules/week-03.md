@@ -1,5 +1,5 @@
 ---
-title: (Week 3) Sample Surveys
+title: (Week 3) Asymptotics and Introduction to Estimation
 ---
 
 Jan 20

@@ -8,5 +8,5 @@ Jan 27
 
 Jan 29
 : Examples of the method of moments. Maximum Likelihood Estimates (MLE)
-  : Chapter 8.5
+  : Rice 8.5
 

@@ -1,13 +1,13 @@
 ---
-title: (Week 7) Hypothesis Testing and Midterm Review
+title: (Week 7) Estimation
 ---
 
-Oct 6
-: The Neyman-Prearson paradigm and optimal tests
-  : Chapter 9.2
+Feb 17
+: Rao-Blackwell theorem to find UMVUEs and examples
+  : Rice 8.8
 
-Oct 8
+Feb 19
 : Midterm Review
 
-Oct 10
-: **HW 3 is due**{: .label .label-red } on [Gradescope](https://www.gradescope.com/courses/1094791)
+Feb 19
+: **Quiz 3**{: .label .label-red } in class

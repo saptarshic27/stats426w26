@@ -4,8 +4,9 @@ title: (Week 3) Asymptotics and Introduction to Estimation
 
 Jan 20
 : Asymptotics and Simulations
-: **Lab 1**{: .label .label-orange }
   : Rice, Chapter 5.1-5.3
+: **Lab 1**{: .label .label-orange }
+  
 
 Jan 22
 : Introduction to Estimation

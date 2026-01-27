@@ -9,6 +9,5 @@ Feb 3
 Feb 5
 : Proof of CRLB, Asymptotic Properties of MLE and other estimates, and confidence intervals
   : Rice 8.5.2 - 8.5.3
-  
-Feb 5
+: **Lab 2**{: .label .label-yellow} on parametric estimation
 : **Quiz 2**{: .label .label-red } in class

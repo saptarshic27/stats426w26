@@ -9,6 +9,5 @@ Feb 17
 Feb 19
 :  Rao-Blackwell theorem to find UMVUEs and examples
   : Rice 8.8
-
-Feb 19
 : **Quiz 3**{: .label .label-red } in class
+: **Coding assignment 1**{: .label .label-red } is due on [gradescope](https://www.gradescope.com/courses/1209303).

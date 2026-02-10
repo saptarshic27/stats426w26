@@ -3,8 +3,8 @@ title: (Week 7) Estimation
 ---
 
 Feb 17
-: Sufficiency, factorization theorem and examples
-  : Rice 8.8
+: Introduction to Bayesian parametric inference  
+  : Rice 8.7
 
 Feb 19
 :  Rao-Blackwell theorem to find UMVUEs and examples

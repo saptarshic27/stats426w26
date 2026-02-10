@@ -5,7 +5,7 @@ Feb 1
 : **Practice Problems 3**{: .label .label-purple} on MLEs posted on Canvas. 
 
 Feb 3
-: Desirable properties of estimators: unbiasedness, consistency. The concept of UMVUE, Fisher Information, and Cramer-Rao Lower Bound (CRLB)
+: Desirable properties of estimators: unbiasedness, consistency. The concept of UMVUE. 
   : Rice 8.7, 8.5.2
 
 Feb 5

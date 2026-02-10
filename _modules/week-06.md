@@ -6,11 +6,11 @@ Feb 9
 : **Coding assignment 1**{: .label .label-purple} posted on [Canvas](https://umich.instructure.com/courses/824512). 
 
 Feb 10
-: Proof of CRLB, Asymptotic Properties of MLE and other estimates, and confidence intervals
-  : Rice 8.5.2 - 8.5.3
+: The concept of UMVUE. Fisher Information, and Cramer-Rao Lower Bound (CRLB). Proof of CRLB, examples, and interpretation. 
+  : Rice 8.7, 8.5.2
 
 Feb 12
-: The the delta method, Introduction to Bayesian Inference  
-  : Rice 8.6
+: Asymptotic Properties of MLE and other estimates, and confidence intervals, The the delta method, Introduction to Bayesian Inference  
+  : Rice 8.5.2 - 8.5.3, Wasserman 5.5 and 9.9.
 
 

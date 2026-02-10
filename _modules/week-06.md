@@ -10,7 +10,7 @@ Feb 10
   : Rice 8.7, 8.5.2
 
 Feb 12
-: Asymptotic Properties of MLE and other estimates, and confidence intervals, The the delta method, Introduction to Bayesian Inference  
+: Asymptotic Properties of MLE and other estimates, and confidence intervals, The the delta method.
   : Rice 8.5.2 - 8.5.3, Wasserman 5.5 and 9.9.
 
 

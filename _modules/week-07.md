@@ -7,8 +7,8 @@ Feb 17
   : Rice 8.7
 
 Feb 19
-:  Rao-Blackwell theorem to find UMVUEs and examples
-  : Rice 8.8
-  
 : **Quiz 3**{: .label .label-red } in class
+
+: **Lab 3**{: .label .label-yellow} in class on simulations related to CRLB, asymptotics of MLE, Bayes estimates etc.
+
 : **Coding assignment 1**{: .label .label-red } is due on [gradescope](https://www.gradescope.com/courses/1209303).

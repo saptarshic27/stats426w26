@@ -3,8 +3,8 @@ title: (Week 7) Estimation
 ---
 
 Feb 17
-: Introduction to Bayesian parametric inference  
-  : Rice 8.7
+: The delta method. Introduction to Bayesian parametric inference  
+  : Wasserman 5.5 and 9.9., Rice 8.7
 
 Feb 19
 : **Quiz 3**{: .label .label-red } in class

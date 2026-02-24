@@ -14,4 +14,4 @@ Feb 19
 : **Coding assignment 1**{: .label .label-red } is due on [gradescope](https://www.gradescope.com/courses/1209303).
 
 Feb 20
-: **Practice Problems 5**{: .label .label-purple} posted on Canvas. 
+: **Practice Problems 5**{: .label .label-purple} posted on [Canvas](https://umich.instructure.com/courses/824512). 

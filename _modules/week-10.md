@@ -7,5 +7,6 @@ Mar 17
   : Rice 9.2, 9.4
 
 Mar 19
-: GLRT continued and the one-sample *t*-test, independence of sample mean and variance
+: GLRT continued
   : Chapter 11.2 and 6.3
+: **Lab 4**{: .label .label-yellow} in class on hypothesis testing.  

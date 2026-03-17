@@ -7,5 +7,8 @@ Apr 7
   : Rice 8.5.1, 9.5 
 
 Apr 9
-: 
+: **Quiz 5**{: .label .label-red } in class
+
+: **Lab 6**{: .label .label-yellow} in class.
+
   

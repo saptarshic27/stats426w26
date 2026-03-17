@@ -7,5 +7,6 @@ Apr 14
   : Rice 8.8
 
 Apr 16
-: 
+: Rao-Blackwell theorem to find UMVUEs and examples
+  : Rice 8.8 
   

@@ -7,4 +7,4 @@ Mar 31
   : Rice 14.2
 
 Apr 2
-: 
+: :**Lab 5**{: .label .label-yellow } in class

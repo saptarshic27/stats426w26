@@ -7,6 +7,6 @@ Mar 24
   : Rice 11.2 and 6.3
 
 Mar 26
-: Ordinary least squares in one dimension, estimation 
+: Introduction to ordinary least squares in one dimension, estimation 
   : Chapter 14.2
 

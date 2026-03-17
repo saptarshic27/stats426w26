@@ -9,6 +9,6 @@ Apr 7
 Apr 9
 : **Quiz 5**{: .label .label-red } in class
 
-: **Lab 6**{: .label .label-yellow} in class.
+: **Lab 5**{: .label .label-yellow} in class.
 
   

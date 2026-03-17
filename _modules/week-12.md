@@ -1,5 +1,5 @@
 ---
-title: (Week 11) Linear Regression and Categorical Data
+title: (Week 12) Linear Regression and Categorical Data
 ---
 
 Mar 31

@@ -3,9 +3,8 @@ title: (Week 15) Categorical Data
 ---
 
 Apr 21
-: Contingency tables, odds ratio, test for independence
-  : Rice 13.1-13.4
+: Course review and looking ahead
 
 Apr 23
-: 
+: No class due to study break
   

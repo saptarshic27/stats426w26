@@ -1,5 +1,5 @@
 ---
-title: (Week 15) Categorical Data
+title: (Week 15) Course Review
 ---
 
 Apr 21

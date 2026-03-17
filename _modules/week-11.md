@@ -3,8 +3,8 @@ title: (Week 11) Hypothesis Testing and Linear Regression
 ---
 
 Mar 24
-: Inversions of tests to find confidence intervals, introduction to ordinary least squares
-  : Chapters 14.1
+: One sample *t*-test. Independence of sample mean and variance for Gaussians.
+  : Rice 11.2 and 6.3
 
 Mar 26
 : Ordinary least squares in one dimension, estimation 

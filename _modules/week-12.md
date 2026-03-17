@@ -7,5 +7,5 @@ Mar 31
   : Rice 14.2
 
 Apr 2
-:  The multinomial distribution, MLE, GLRT, Goodness of fit test
+: The multinomial distribution, MLE, GLRT, Goodness of fit test
   : Rice 8.5.1, 9.5 

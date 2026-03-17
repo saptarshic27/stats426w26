@@ -9,4 +9,5 @@ Mar 17
 Mar 19
 : GLRT continued
   : Chapter 11.2 and 6.3
+  
 : **Lab 4**{: .label .label-yellow} in class on hypothesis testing.  

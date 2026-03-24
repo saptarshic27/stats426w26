@@ -1,6 +1,9 @@
 ---
-title: (Week 9) Hypothesis Testing
+title: (Week 10) Hypothesis Testing
 ---
+
+Mar 16
+: **Practice Problems 6**{: .label .label-purple} released on [Canvas](https://umich.instructure.com/courses/824512).  
 
 Mar 17
 : Proof of the Neyman-Pearson Lemma, Generalized Likelihood Ratio Test (GLRT)

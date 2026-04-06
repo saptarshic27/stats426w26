@@ -1,11 +1,11 @@
 ---
-title: (Week 12) Linear Regression
+title: (Week 12) Categorical Data
 ---
 
 Mar 31
-: OLS testing for dependence
-  : Rice 14.2
+: Finishing off the proof of independence of the sample mean and variance. Introduction to categorical data, multinomial distribution, MLE through Lagrange multipliers.
+  : Rice 8.5.1, 13.1-13.3.
 
 Apr 2
-: The multinomial distribution, MLE, GLRT, Goodness of fit test
-  : Rice 8.5.1, 9.5 
+: MLE under the restricted setup, Hardy-Weinberg Equilibrium Example, GLRT, and Chi-squared tests.
+  : Rice 9.5, 13.4

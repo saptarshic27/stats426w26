@@ -3,7 +3,7 @@ title: (Week 11) Hypothesis Testing and Linear Regression
 ---
 
 Mar 24
-: One sample *t*-test. Independence of sample mean and variance for Gaussians.
+: Finishing off the proof of independence of <span style="border-top: 1px solid black;">X</span>
   : Rice 11.2 and 6.3
 
 Mar 26
